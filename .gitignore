@@ -1,3 +1,22 @@
+# Compiled object files
 *.o
+
+# Executables (default GCC output)
 *.out
+a.out
+
+# If you name executables manually
 *.exe
+
+# Debug symbols
+*.dSYM/
+
+# VS Code settings (optional — see note below)
+.vscode/
+
+# Backup files
+*~
+*.swp
+
+# Linux system files
+.DS_Store
