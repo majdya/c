@@ -4,6 +4,7 @@
 # Executables (default GCC output)
 *.out
 a.out
+build/
 
 # If you name executables manually
 *.exe
